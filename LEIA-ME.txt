@@ -1,0 +1,10 @@
+SITE SAÍDA PRO MATO
+
+Abra o arquivo index.html no navegador para visualizar.
+O botão principal e a ilustração da velhinha levam a:
+https://saidapromato.blogspot.com/
+
+O botão verde abre uma conversa no WhatsApp com o número informado:
++55 13 97826-7986
+
+Para publicar, envie o arquivo index.html para sua hospedagem ou use-o como base no serviço de publicação escolhido.
